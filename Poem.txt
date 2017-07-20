@@ -1,5 +1,6 @@
-The rainbow
+The rainbow and the unicorn
 
+unicorn
 Purple
 Pink
 Orange
@@ -9,3 +10,4 @@ Yellow
 Red
 These are the colors of the rainbow
 white is not a color in the rainbow
+
