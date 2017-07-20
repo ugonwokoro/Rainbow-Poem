@@ -8,3 +8,4 @@ Blue
 Yellow
 Red
 These are the colors of the rainbow
+white is not a color in the rainbow
